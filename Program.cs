@@ -4,27 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dizi
+namespace ConsoleApp21
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[] numbers = { 4, 85, 65, 89, 90, 67, 43, 34,3,12 };
-            int sum=0;
-            for(int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 3 == 0)
-                {
-                    Console.WriteLine(numbers[i]);
-                    sum += numbers[i];
-                    
+            Console.WriteLine("3  basamaklı sayı girin");
+            int a;
+            a = int.Parse(Console.ReadLine());
+            int hundred,tens,ones;
+            int sum;
+            ones = a % 10;
+            tens = (a % 100) / 10;
+            hundred = a / 100;
 
-                }
+            Console.WriteLine(ones + "-"+tens + "-"+hundred);
+            sum = ones + tens + hundred;
+            Console.WriteLine("3 basamaklı sayının toplamı " + sum);
 
-            }
-            Console.WriteLine("3'e bölünen sayıların toplamı"+sum);
-
-        }
+         }
     }
 }
