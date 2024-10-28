@@ -1,0 +1,7 @@
+C:\Users\Şevval\source\repos\void-ornek\void-ornek\bin\Debug\void-ornek.exe.config
+C:\Users\Şevval\source\repos\void-ornek\void-ornek\bin\Debug\void-ornek.exe
+C:\Users\Şevval\source\repos\void-ornek\void-ornek\bin\Debug\void-ornek.pdb
+C:\Users\Şevval\source\repos\void-ornek\void-ornek\obj\Debug\void-ornek.csproj.AssemblyReference.cache
+C:\Users\Şevval\source\repos\void-ornek\void-ornek\obj\Debug\void-ornek.csproj.CoreCompileInputs.cache
+C:\Users\Şevval\source\repos\void-ornek\void-ornek\obj\Debug\void-ornek.exe
+C:\Users\Şevval\source\repos\void-ornek\void-ornek\obj\Debug\void-ornek.pdb
